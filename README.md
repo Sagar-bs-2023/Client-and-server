@@ -3,6 +3,7 @@ A simulation of communication between client and server.
 This code is an attempt to simulate and understand the working of the client and server. The code uses python sockets module for connecting the server and client. The server and client in this case can be any two systems connected over a network and there is no requirements for the system running the server side python code to have higher specs or something like that.
 
 How to use?
+
 Step 1 : Run the server.py on a system which should receive files or is the command centre for simplicity.
 Step 2 : On running the server.py on the system you get the below message from which you have to use the "ip-address:port-number" and replace the PORT and SERVER with the "port-number" and "ip-address" respectively in the client.py file.
 
