@@ -4,11 +4,11 @@ This code is an attempt to simulate and understand the working of the client and
 
 How to use?
 Step 1 : Run the server.py on a system which should receive files or is the command centre for simplicity.
-Step 2 : On running the server.py on the system you get the below message from which you have to use the "<ip-address>:<port-number>" and replace the PORT and SERVER with the <port-number> and <ip-address> respectively in the client.py file.
+Step 2 : On running the server.py on the system you get the below message from which you have to use the "ip-address:port-number" and replace the PORT and SERVER with the "port-number" and "ip-address" respectively in the client.py file.
 
 [STARTING] Server is starting...
 
-[LISTENING] Server is listening on <ip-address>:<port-number>
+[LISTENING] Server is listening on ip-address:port-number
 
 Enter !CMD: for running commands on the client's command prompt
 
