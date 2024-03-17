@@ -31,4 +31,5 @@ The client.py and server.py combined provides 3 functionalities --
 It should be noted that these command can only be run on the server.py terminal.
 
 Use case :
-As of now the only use case I can think of is that using this code for transferring files between systems. This can be achieved by using the !GET command and basic cmd commands. The server.py code should be run on the receiving system and the sender must be running the client.py in the sender system. This code can also be used as a Command and control server but this cab work only for the client.py which is there and you can't send any payloads.
+
+As of now the only use case I can think of is that using this code for transferring files between systems. This can be achieved by using the !GET command and basic cmd commands. The server.py code should be run on the receiving system and the sender must be running the client.py. This code can also be used as a Command and control server but this can work only for the client.py which is there and you can't send any payloads.
