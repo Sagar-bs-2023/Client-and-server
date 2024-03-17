@@ -7,9 +7,13 @@ Step 1 : Run the server.py on a system which should receive files or is the comm
 Step 2 : On running the server.py on the system you get the below message from which you have to use the "<ip-address>:<port-number>" and replace the PORT and SERVER with the <port-number> and <ip-address> respectively in the client.py file.
 
 [STARTING] Server is starting...
+
 [LISTENING] Server is listening on <ip-address>:<port-number>
+
 Enter !CMD: for running commands on the client's command prompt
+
 Enter !GET: for downloading files from the client
+
 Enter !DISCONNECT: for disconnecting from the client
 #################################################################
 
